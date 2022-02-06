@@ -17,5 +17,5 @@ func main() {
 	println(genericmath.Add(a, a))
 	println(genericmath.Add(b, b))
 
-	fmt.Println("Welcome to the jungle")
+	fmt.Println("Welcome to the Generic Jungle")
 }
